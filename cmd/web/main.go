@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/NiekKloppenburg/bookings/pkg/config"
-	"github.com/NiekKloppenburg/bookings/pkg/handlers"
-	"github.com/NiekKloppenburg/bookings/pkg/render"
+	"github.com/NiekKloppenburg/bookings/internal/config"
+	"github.com/NiekKloppenburg/bookings/internal/handlers"
+	"github.com/NiekKloppenburg/bookings/internal/render"
 	"github.com/alexedwards/scs/v2"
 )
 
